@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Ofir David
 
+<p>
+<img align="right" src="./Poincare rotations200.gif" alt="Ofir David" width = 100/>
+
 I'm a mathematician with a deep interest in computer science — especially its intersections with mathematical theory and applications. I use this GitHub space to explore, document, and share projects where math comes alive through code.
 
 My work spans from algorithmic experiments and educational tools, to interactive visualizations and game-like environments built in Unity. Whether through Python scripts, C# for Unity, or web-based tools, I aim to make complex ideas more intuitive and engaging.
 
 While GitHub hosts most of my (online) code-focused work, I also share the more visual centric projects on other platforms like OpenProcessing and Shadertoy. This and much more can be found in my [homepage](https://prove-me-wrong.com/).
-
+</p>
 
 ## 🔍 Algorithm Explorations
 
