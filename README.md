@@ -34,6 +34,9 @@ These projects use Unity to create game-like or interactive environments that ex
 - 🔀 [Permutations Game](https://github.com/TotallyReal/Permutations_Game)  
   *Building puzzles based on the fascinating properties of permutations.*
 
+- 🌳 [Binary tree balancing](https://github.com/TotallyReal/Binary-Trees)
+  *Get a hands-on feel for tree rotations with this puzzle-like game about balancing binary search trees — playable right in your browser.*
+
 - 🕶️ AR projects
   *Currently, I don’t have any public repositories for my augmented reality (AR) projects, but you can see them on my [homepage](https://prove-me-wrong.com/programming-projects/).*
 
