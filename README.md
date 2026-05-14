@@ -12,7 +12,7 @@ While GitHub hosts most of my (online) code-focused work, I also share the more 
 
 ## 🎮 Interactive Tools
 
-- 🎯 AlgoPlay
+- 🎯 [AlgoPlay](https://algorithm-play.vercel.app)
 
   A browser-based playground for visualizing Python algorithms — write your algorithm, step through an animated timeline, and interact with live visual elements to explore how each step unfolds.
 
