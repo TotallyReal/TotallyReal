@@ -10,6 +10,12 @@ My work spans from algorithmic experiments and educational tools, to interactive
 While GitHub hosts most of my (online) code-focused work, I also share the more visual centric projects on other platforms like OpenProcessing and Shadertoy. This and much more can be found in my [homepage](https://prove-me-wrong.com/).
 </p>
 
+## 🎮 Interactive Tools
+
+- 🎯 AlgoPlay
+
+  A browser-based playground for visualizing Python algorithms — write your algorithm, step through an animated timeline, and interact with live visual elements to explore how each step unfolds.
+
 ## 🔍 Algorithm Explorations
 
 These repositories explore classic and modern algorithms in areas like machine learning, compression, encryption and more. Each includes detailed Jupyter notebooks explaining the logic behind the implementation and the mathematical intuition.
