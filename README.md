@@ -16,6 +16,10 @@ While GitHub hosts most of my (online) code-focused work, I also share the more 
 
   A browser-based playground for visualizing Python algorithms — write your algorithm, step through an animated timeline, and interact with live visual elements to explore how each step unfolds.
 
+- 📐 [Simplex Explorer](https://simplex-explorer.onrender.com)
+
+An interactive step-by-step calculator for the Simplex algorithm — input a linear program, watch each pivot unfold with exact-fraction arithmetic, and follow the tableau transformations as the solver works toward an optimal solution. (Hosted on a free tier — the first load may take ~1 minute while the server wakes up.)
+
 ## 🔍 Algorithm Explorations
 
 These repositories explore classic and modern algorithms in areas like machine learning, compression, encryption and more. Each includes detailed Jupyter notebooks explaining the logic behind the implementation and the mathematical intuition.
