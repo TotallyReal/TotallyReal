@@ -18,7 +18,7 @@ While GitHub hosts most of my (online) code-focused work, I also share the more 
 
 - 📐 [Simplex Explorer](https://simplex-explorer.onrender.com)
 
-An interactive step-by-step calculator for the Simplex algorithm — input a linear program, watch each pivot unfold with exact-fraction arithmetic, and follow the tableau transformations as the solver works toward an optimal solution. (Hosted on a free tier — the first load may take ~1 minute while the server wakes up.)
+  An interactive step-by-step calculator for the Simplex algorithm — input a linear program, watch each pivot unfold with exact-fraction arithmetic, and follow the tableau transformations as the solver works toward an optimal solution. (Hosted on a free tier — the first load may take ~1 minute while the server wakes up.)
 
 ## 🔍 Algorithm Explorations
 
